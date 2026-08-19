@@ -1,10 +1,3 @@
-## 👋 Hi, I’m Radin  
-I’m a **Front-End Developer** passionate about building modern, user friendly, and performant web applications.  
-I love working with **React, Next.js, and Tailwind CSS**, and I enjoy learning new tools that improve developer productivity.  
-Lately, I’ve been exploring **UI/UX design systems** and **web performance optimization**.
-
----
-
 ## 🛠 Skills & Tools  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
 ![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)  
